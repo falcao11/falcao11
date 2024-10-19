@@ -33,6 +33,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falcao11&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-## Wakatime stats
+## Wakatime Stats
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@falcao11)](https://github.com/anuraghazra/github-readme-stats)
