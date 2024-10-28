@@ -6,8 +6,8 @@
 
 ## Spoken Languages
 
-- Portuguese - Native
-- English - Basic
+- Portuguese
+- English
 
 ## Social Media
 
